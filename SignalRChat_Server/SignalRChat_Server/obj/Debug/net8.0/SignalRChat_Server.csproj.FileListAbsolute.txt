@@ -139,3 +139,4 @@ C:\Users\elesg\OneDrive\Desktop\ChatSignalR_Project\SignalRChat_Server\SignalRCh
 C:\Users\elesg\OneDrive\Desktop\ChatSignalR_Project\SignalRChat_Server\SignalRChat_Server\obj\Debug\net8.0\ref\SignalRChat_Server.dll
 C:\Users\elesg\OneDrive\Desktop\ChatSignalR_Project\SignalRChat_Server\SignalRChat_Server\bin\Debug\net8.0\SignalRChat_Server.staticwebassets.runtime.json
 C:\Users\elesg\OneDrive\Desktop\ChatSignalR_Project\SignalRChat_Server\SignalRChat_Server\bin\Debug\net8.0\GenericFileService.dll
+C:\Users\elesg\OneDrive\Desktop\ChatSignalR_Project\SignalRChat_Server\SignalRChat_Server\obj\Debug\net8.0\SignalRChat_Server.sourcelink.json

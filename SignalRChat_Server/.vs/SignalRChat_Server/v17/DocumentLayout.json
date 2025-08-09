@@ -42,8 +42,7 @@
               "RelativeToolTip": "SignalRChat_Server\\Hubs\\ChatHub.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T20:00:51.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-09T20:00:51.501Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "SignalRChat_Server\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAC7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T19:09:19.406Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-09T19:09:19.406Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "SignalRChat_Server\\Program.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAAABsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T18:08:42.581Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-09T18:08:42.581Z"
             },
             {
               "$type": "Document",
@@ -94,8 +91,7 @@
               "RelativeToolTip": "SignalRChat_Server\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-09T18:11:19.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-09T18:11:19.767Z"
             }
           ]
         }
