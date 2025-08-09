@@ -26,9 +26,9 @@ A full-stack real-time chat application built with Angular on the client side an
 
 ## 📸 Screenshots
 
-> *(Add your screenshots inside a `screenshots` folder and reference them below)*
+> 
 
-![Chat Interface](screenshots/SignalRScreen_1.png)  
+![Chat Interface](screenshots/SignalRScreen_2.png)  
 *Real-time chat window with avatars and online status*
 
 ---
