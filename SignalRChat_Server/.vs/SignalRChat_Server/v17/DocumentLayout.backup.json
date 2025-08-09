@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elesg\\OneDrive\\Desktop\\ChatSignalR_Project\\SignalRChat_Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{040A5AD9-F221-478B-9D8E-46DC77762F41}|SignalRChat_Server\\SignalRChat_Server.csproj|c:\\users\\elesg\\onedrive\\desktop\\chatsignalr_project\\signalrchat_server\\signalrchat_server\\controllers\\chatscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040A5AD9-F221-478B-9D8E-46DC77762F41}|SignalRChat_Server\\SignalRChat_Server.csproj|solutionrelative:signalrchat_server\\controllers\\chatscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040A5AD9-F221-478B-9D8E-46DC77762F41}|SignalRChat_Server\\SignalRChat_Server.csproj|c:\\users\\elesg\\onedrive\\desktop\\chatsignalr_project\\signalrchat_server\\signalrchat_server\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040A5AD9-F221-478B-9D8E-46DC77762F41}|SignalRChat_Server\\SignalRChat_Server.csproj|solutionrelative:signalrchat_server\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040A5AD9-F221-478B-9D8E-46DC77762F41}|SignalRChat_Server\\SignalRChat_Server.csproj|c:\\users\\elesg\\onedrive\\desktop\\chatsignalr_project\\signalrchat_server\\signalrchat_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040A5AD9-F221-478B-9D8E-46DC77762F41}|SignalRChat_Server\\SignalRChat_Server.csproj|solutionrelative:signalrchat_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040A5AD9-F221-478B-9D8E-46DC77762F41}|SignalRChat_Server\\SignalRChat_Server.csproj|c:\\users\\elesg\\onedrive\\desktop\\chatsignalr_project\\signalrchat_server\\signalrchat_server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040A5AD9-F221-478B-9D8E-46DC77762F41}|SignalRChat_Server\\SignalRChat_Server.csproj|solutionrelative:signalrchat_server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040A5AD9-F221-478B-9D8E-46DC77762F41}|SignalRChat_Server\\SignalRChat_Server.csproj|c:\\users\\elesg\\onedrive\\desktop\\chatsignalr_project\\signalrchat_server\\signalrchat_server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{040A5AD9-F221-478B-9D8E-46DC77762F41}|SignalRChat_Server\\SignalRChat_Server.csproj|solutionrelative:signalrchat_server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\elesg\\OneDrive\\Desktop\\ChatSignalR_Project\\SignalRChat_Server\\SignalRChat_Server\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "SignalRChat_Server\\Hubs\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\elesg\\OneDrive\\Desktop\\ChatSignalR_Project\\SignalRChat_Server\\SignalRChat_Server\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "SignalRChat_Server\\Hubs\\ChatHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T20:00:51.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatsController.cs",
+              "DocumentMoniker": "C:\\Users\\elesg\\OneDrive\\Desktop\\ChatSignalR_Project\\SignalRChat_Server\\SignalRChat_Server\\Controllers\\ChatsController.cs",
+              "RelativeDocumentMoniker": "SignalRChat_Server\\Controllers\\ChatsController.cs",
+              "ToolTip": "C:\\Users\\elesg\\OneDrive\\Desktop\\ChatSignalR_Project\\SignalRChat_Server\\SignalRChat_Server\\Controllers\\ChatsController.cs",
+              "RelativeToolTip": "SignalRChat_Server\\Controllers\\ChatsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T19:47:21.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\elesg\\OneDrive\\Desktop\\ChatSignalR_Project\\SignalRChat_Server\\SignalRChat_Server\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SignalRChat_Server\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\elesg\\OneDrive\\Desktop\\ChatSignalR_Project\\SignalRChat_Server\\SignalRChat_Server\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SignalRChat_Server\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAC7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T19:09:19.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elesg\\OneDrive\\Desktop\\ChatSignalR_Project\\SignalRChat_Server\\SignalRChat_Server\\Program.cs",
+              "RelativeDocumentMoniker": "SignalRChat_Server\\Program.cs",
+              "ToolTip": "C:\\Users\\elesg\\OneDrive\\Desktop\\ChatSignalR_Project\\SignalRChat_Server\\SignalRChat_Server\\Program.cs",
+              "RelativeToolTip": "SignalRChat_Server\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T18:08:42.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\elesg\\OneDrive\\Desktop\\ChatSignalR_Project\\SignalRChat_Server\\SignalRChat_Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SignalRChat_Server\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\elesg\\OneDrive\\Desktop\\ChatSignalR_Project\\SignalRChat_Server\\SignalRChat_Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SignalRChat_Server\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-09T18:11:19.767Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
